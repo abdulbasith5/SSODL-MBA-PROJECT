@@ -1,0 +1,4 @@
+region,total_cost_inr,avg_cost_inr,instance_count,avg_utilization,total_idle_cost_inr,avg_efficiency_score,cost_per_instance_inr
+ap-south-1,15942.35,215.44,74,51.0,5249.62,180.14,215.43716216216217
+eu-central-1,16855.34,234.1,72,51.75,5332.07,167.42,234.10194444444446
+us-west-2,15328.7,212.9,72,49.48,5234.5,175.16,212.8986111111111

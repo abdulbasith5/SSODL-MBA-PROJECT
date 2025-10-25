@@ -1,0 +1,14 @@
+Metric,Value,Description
+Total AWS Cost (INR),"₹48,126.39",Total spending across all AWS services
+Total Idle Cost (INR),"₹15,816.19",Cost of underutilized resources
+Idle Cost Percentage,32.9%,Percentage of costs that are idle
+Average CPU Utilization,50.7%,Average resource utilization across services
+Number of Services,5,Number of different AWS services used
+Number of Regions,3,Number of AWS regions deployed
+Total Instances,218,Total number of resource instances
+Optimization Potential (INR),"₹9,489.71",Potential cost savings through optimization
+Cost per Instance (INR),₹220.76,Average cost per resource instance
+Most Expensive Service,EC2,Service with highest total costs
+Most Expensive Region,eu-central-1,Region with highest total costs
+Best Performing Service,EC2,Service with highest average utilization
+Forecasted Monthly Savings (INR),"₹113,876.57",Projected annual savings from optimization

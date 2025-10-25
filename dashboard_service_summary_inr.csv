@@ -1,0 +1,6 @@
+service,service_category,total_cost_inr,avg_cost_inr,instance_count,cost_std_inr,avg_utilization,min_utilization,max_utilization,total_idle_cost_inr,avg_efficiency_score,optimization_potential_inr
+ec2,Compute,31073.99,295.94,105,12.76,84.09,76.8,89.3,4913.08,284.33,2947.848
+ecs,Compute,1481.73,246.96,6,3.11,73.15,71.4,74.9,397.64,296.19,238.58399999999997
+lambda,Serverless,461.48,25.64,18,3.74,0.0,0.0,0.0,461.48,0.0,276.888
+rds,Database,10147.63,281.88,36,10.94,49.84,45.1,54.9,5082.43,176.8,3049.458
+s3,Storage,4961.56,93.61,53,9.66,0.0,0.0,0.0,4961.56,0.0,2976.936
